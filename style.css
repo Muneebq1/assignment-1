@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    background-image: url(download..jpg) ;
+         background-size: cover;
+    background-repeat: no-repea;
+}
+
+.nav-container {
+    height: 60px;
+}
+
+.nav-container>a {
+    display:inline-block;
+    height: 20px;
+    width: 60px;
+    padding: 5px;
+    margin: 3px;
+    color: grey;
+    text-decoration: none;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.nav-container>a:hover {
+    color: white;
+ 
+}
+h1 {
+    color: rgb(105, 45, 45);
+    margin: 10px;
+}
+h2 {
+    text-align: center;
+    color:goldenrod;
+}
+p {
+    margin: 15px;
+    color: wheat;
+}
+table h1 {
+    color: brown;
+}
+.footer>a {
+    color: grey;
+    padding: 5px;
+    margin: 5px;
+ text-align: center;
+}
+.footer>a:hover {
+    color: white;
+}

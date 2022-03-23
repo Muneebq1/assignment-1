@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-image: url(download..jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.nav-container {
+    height: 60px;
+}
+
+.nav-container>a {
+    display:inline-block;
+    height: 20px;
+    width: 60px;
+    padding: 5px;
+    margin: 3px;
+    color: grey;
+    text-decoration: none;
+    text-align: center;
+}
+
+.nav-container>a:hover {
+    color: white;
+
+}
+p {
+    color: wheat;
+}
+h1 {
+    color: goldenrod;
+}
